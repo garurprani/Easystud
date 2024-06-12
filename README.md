@@ -115,7 +115,5 @@ Enter Score Marks: 240
     
  <h2>License</h2>
     <p>This project is licensed under the MIT License.</p>
-    <hr>
-    <p>Feel free to customize the content as needed.</p>
 </body>
 </html>
