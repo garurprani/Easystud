@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EasyStud - Student Record Management</title>
-</head>
+
 <body>
     <h1>EasyStud - Student Record Management</h1>
     <p>EasyStud is a Python script designed to help you manage student records with ease. It supports functionalities such as adding, updating, retrieving, and removing student data, as well as performing basic mathematical operations on student marks. The script stores data in an Excel file for easy access and manipulation.</p>
@@ -98,7 +92,7 @@ Enter Score Marks: 240
                 <p>Main Menu</p>
             </td>
             <td>
-                <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="500">
+                <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="700">
                 <p>Adding a New Student</p>
             </td>
         </tr>
