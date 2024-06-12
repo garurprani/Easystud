@@ -1,0 +1,5 @@
+pyfiglet
+pandas
+tabulate
+colorama
+sys
