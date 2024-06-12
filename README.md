@@ -12,6 +12,40 @@
         <li>Perform basic math operations on student marks</li>
         <li>Colorful and user-friendly console output</li>
     </ul>
+
+  <h2>Screenshots</h2>
+    <table>
+        <tr>
+            <td>
+                <img src="screenshots/screenshot1.png" alt="Screenshot 1" width="500">
+                <p>Main Menu</p>
+            </td>
+            <td>
+                <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="700">
+                <p>Adding a New Student</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="screenshots/screenshot3.png" alt="Screenshot 3" width="500">
+                <p>Student Details</p>
+            </td>
+            <td>
+                <img src="screenshots/screenshot4.png" alt="Screenshot 4" width="500">
+                <p>Updating Student Data</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="screenshots/screenshot5.png" alt="Screenshot 5" width="500">
+                <p>Performing Math Operations</p>
+            </td>
+            <td>
+                <img src="screenshots/screenshot6.png" alt="Screenshot 6" width="500">
+                <p>Show main menu</p>
+            </td>
+        </tr>
+    </table>
     
   <h2>Requirements</h2>
     <p>The script requires the following Python libraries:</p>
@@ -83,39 +117,5 @@ Enter Score Marks: 240
     <p>This project is licensed under the MIT License.</p>
     <hr>
     <p>Feel free to customize the content as needed.</p>
-
-  <h2>Screenshots</h2>
-    <table>
-        <tr>
-            <td>
-                <img src="screenshots/screenshot1.png" alt="Screenshot 1" width="500">
-                <p>Main Menu</p>
-            </td>
-            <td>
-                <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="700">
-                <p>Adding a New Student</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img src="screenshots/screenshot3.png" alt="Screenshot 3" width="500">
-                <p>Student Details</p>
-            </td>
-            <td>
-                <img src="screenshots/screenshot4.png" alt="Screenshot 4" width="500">
-                <p>Updating Student Data</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img src="screenshots/screenshot5.png" alt="Screenshot 5" width="500">
-                <p>Performing Math Operations</p>
-            </td>
-            <td>
-                <img src="screenshots/screenshot6.png" alt="Screenshot 6" width="500">
-                <p>Show main menu</p>
-            </td>
-        </tr>
-    </table>
 </body>
 </html>
