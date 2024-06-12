@@ -94,32 +94,32 @@ Enter Score Marks: 240
     <table>
         <tr>
             <td>
-                <img src="screenshots/screenshot1.png" alt="Screenshot 1" width="300">
+                <img src="screenshots/screenshot1.png" alt="Screenshot 1" width="500">
                 <p>Main Menu</p>
             </td>
             <td>
-                <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="300">
+                <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="500">
                 <p>Adding a New Student</p>
             </td>
         </tr>
         <tr>
             <td>
-                <img src="screenshots/screenshot3.png" alt="Screenshot 3" width="300">
+                <img src="screenshots/screenshot3.png" alt="Screenshot 3" width="500">
                 <p>Student Details</p>
             </td>
             <td>
-                <img src="screenshots/screenshot4.png" alt="Screenshot 4" width="300">
+                <img src="screenshots/screenshot4.png" alt="Screenshot 4" width="500">
                 <p>Updating Student Data</p>
             </td>
         </tr>
         <tr>
             <td>
-                <img src="screenshots/screenshot5.png" alt="Screenshot 5" width="300">
+                <img src="screenshots/screenshot5.png" alt="Screenshot 5" width="500">
                 <p>Performing Math Operations</p>
             </td>
             <td>
-                <img src="screenshots/screenshot6.png" alt="Screenshot 6" width="300">
-                <p>Math Operations - Average</p>
+                <img src="screenshots/screenshot6.png" alt="Screenshot 6" width="500">
+                <p>Show main menu</p>
             </td>
         </tr>
     </table>
