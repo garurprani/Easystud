@@ -12,6 +12,8 @@ init(autoreset=True)
 logo = pyfiglet.figlet_format("EASYSTUD")
 print(logo)
 print(Fore.YELLOW + "📃 A script built to help you with student records 📃")
+print(Fore.BLACK + Back.YELLOW + "scripted by @garurprani")
+print()
 
 menu_message = """What would you like to do today??
 --> Add more students: new
