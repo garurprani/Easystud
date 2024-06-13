@@ -2,6 +2,14 @@
 <body>
     <h1>EasyStud - Student Record Management</h1>
     <p>EasyStud is a Python script designed to help you manage student records with ease. It supports functionalities such as adding, updating, retrieving, and removing student data, as well as performing basic mathematical operations on student marks. The script stores data in an Excel file for easy access and manipulation.</p>
+
+### What Full Video
+
+[<img src="https://img.youtube.com/vi/Be7P7jG6U3M/maxresdefault.jpg" width="560" height="315">](https://youtu.be/Be7P7jG6U3M)
+
+
+
+
     
 <h2>Features</h2>
     <ul>
